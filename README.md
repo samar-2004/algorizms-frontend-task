@@ -42,6 +42,7 @@ The app allows users to register or log in and then explore a curated list of fr
 
 src/
 ├── components/
+| |__ ConfirmDialog.jsx   
 │ └── LoadCard.jsx # Load display card
 ├── pages/
 │ ├── Login.jsx # Login screen
