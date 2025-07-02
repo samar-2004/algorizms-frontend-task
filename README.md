@@ -38,20 +38,7 @@ The app allows users to register or log in and then explore a curated list of fr
 
 ---
 
-## 📁 Folder Structure
 
-src/
-├── components/
-| |__ ConfirmDialog.jsx   
-│ └── LoadCard.jsx # Load display card
-├── pages/
-│ ├── Login.jsx # Login screen
-│ ├── Signup.jsx # Registration screen
-│ └── LoadSearch.jsx # Search/sort/paginate loads
-├── data/
-│ └── mockLoad.js # Mock load data
-├── App.jsx # App routes and theme logic
-└── main.jsx # Entry point
 
 🧑‍💻 Author
 Muhammd Samar Junaid
