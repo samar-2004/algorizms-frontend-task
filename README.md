@@ -1,4 +1,4 @@
-# 🚚 Algorizms Frontend Task – Uqaab Logistics MVP
+# Algorizms Frontend Task 
 
 This is a modern, mobile-responsive frontend built for the **Algorizms Summer Internship Task**, simulating the MVP of a digital logistics platform called **Uqaab**.
 
