@@ -105,10 +105,9 @@ export default function LoadSearch() {
         <div className="sticky top-0 bg-gray-950 z-30 pb-6 pt-8">
           {/* Page Title */}
           <div className="text-center mb-4">
-            <h1 className="text-4xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500 tracking-tight">
+            <h1 className="text-4xl md:text-5xl font-extrabold text-transparent mb-8 bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500 tracking-tight">
               📦 Available Loads
             </h1>
-            <p className="text-gray-400 mt-2 text-lg">Search and browse freight listings</p>
           </div>
 
           {/* Search and Sort Controls */}
