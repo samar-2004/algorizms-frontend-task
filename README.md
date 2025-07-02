@@ -42,4 +42,4 @@ The app allows users to register or log in and then explore a curated list of fr
 
 🧑‍💻 Author
 - Muhammd Samar Junaid
-- 📫 Email: samarjunaid1994@example.com
+- 📫 Email: samarjunaid1994@gmail.com
