@@ -41,6 +41,6 @@ The app allows users to register or log in and then explore a curated list of fr
 
 
 🧑‍💻 Author
-Muhammd Samar Junaid
-Frontend Developer – Algorizms Internship Task
-📫 Email: samarjunaid1994@example.com
+- Muhammd Samar Junaid
+- Frontend Developer – Algorizms Internship Task
+- 📫 Email: samarjunaid1994@example.com
